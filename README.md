@@ -61,10 +61,10 @@ python secure_key_mgmt.py
 ```  
 
 This will trigger **predefined test cases**, including:  
-✔ AES encryption and decryption verification  
-✔ RSA encryption and decryption validation  
-✔ Diffie-Hellman key exchange execution  
-✔ Key revocation test (ensuring decryption fails post-revocation)  
+ AES encryption and decryption verification  
+ RSA encryption and decryption validation  
+ Diffie-Hellman key exchange execution  
+ Key revocation test (ensuring decryption fails post-revocation)  
 
 ---
 
